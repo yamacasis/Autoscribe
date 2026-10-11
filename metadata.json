@@ -1,0 +1,8 @@
+{
+  "name": "AutoScribe - Windscribe Android CLI & Speed Checker",
+  "description": "Android companion & CLI tool for Windscribe VPN. Discover all 70+ locations and 200+ nodes, run live ping and speed tests, auto-select the best servers, and run or export AutoScribe scripts for Termux on Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
